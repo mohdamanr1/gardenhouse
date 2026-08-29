@@ -230,14 +230,14 @@ export const menuData = {
       id: 'pasta-1',
       name: 'Red Sauce Pasta',
       price: 69,
-      image: 'https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&q=80',
+      image: 'https://images.pexels.com/photos/11161425/pexels-photo-11161425.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Burger & Pasta'
     },
     {
       id: 'pasta-2',
       name: 'White Sauce Pasta',
       price: 89,
-      image: 'https://images.unsplash.com/photo-1621996659490-3275b4d0d951?w=600&q=80',
+      image: 'https://images.pexels.com/photos/2703468/pexels-photo-2703468.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Burger & Pasta'
     }
   ],
