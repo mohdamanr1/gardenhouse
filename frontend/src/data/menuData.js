@@ -128,14 +128,14 @@ export const menuData = {
       id: 'snack-1',
       name: 'Aloo Patties',
       price: 20,
-      image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80',
+      image: 'https://images.pexels.com/photos/36170562/pexels-photo-36170562.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
       id: 'snack-2',
       name: 'Paneer Patties',
       price: 35,
-      image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80',
+      image: 'https://images.pexels.com/photos/13365029/pexels-photo-13365029.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
@@ -156,7 +156,7 @@ export const menuData = {
       id: 'snack-5',
       name: 'Pyaz Pakoda',
       price: 60,
-      image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80',
+      image: 'https://images.pexels.com/photos/38298052/pexels-photo-38298052.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
@@ -179,14 +179,14 @@ export const menuData = {
       id: 'maggi-1',
       name: 'Plain Maggi',
       price: 40,
-      image: 'https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&q=80',
+      image: 'https://images.pexels.com/photos/31109619/pexels-photo-31109619.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Maggi'
     },
     {
       id: 'maggi-2',
       name: 'Butter Maggi',
       price: 60,
-      image: 'https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=600&q=80',
+      image: 'https://images.pexels.com/photos/31109621/pexels-photo-31109621.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Maggi'
     },
     {
@@ -246,14 +246,14 @@ export const menuData = {
       id: 'chinese-1',
       name: 'Veg Chowmein',
       price: 49,
-      image: 'https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&q=80',
+      image: 'https://images.pexels.com/photos/5409014/pexels-photo-5409014.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Chinese'
     },
     {
       id: 'chinese-2',
       name: 'Paneer Chowmein',
       price: 69,
-      image: 'https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=600&q=80',
+      image: 'https://images.pexels.com/photos/8108045/pexels-photo-8108045.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Chinese'
     },
     {
@@ -603,7 +603,7 @@ export const menuData = {
       id: 'veg-3',
       name: 'Paneer Bhurji',
       price: 100,
-      image: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&q=80',
+      image: 'https://images.pexels.com/photos/28674562/pexels-photo-28674562.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Veg Special'
     },
     {
