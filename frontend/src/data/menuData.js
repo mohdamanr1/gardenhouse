@@ -149,7 +149,7 @@ export const menuData = {
       id: 'snack-4',
       name: 'Paneer Pakoda',
       price: 90,
-      image: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&q=80',
+      image: 'https://images.pexels.com/photos/8585763/pexels-photo-8585763.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
@@ -260,7 +260,7 @@ export const menuData = {
       id: 'chinese-3',
       name: 'Veg Manchurian',
       price: 79,
-      image: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&q=80',
+      image: 'https://images.pexels.com/photos/28674543/pexels-photo-28674543.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Chinese'
     },
     {
@@ -281,14 +281,14 @@ export const menuData = {
       id: 'chinese-6',
       name: 'Chilli Paneer',
       price: 99,
-      image: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&q=80',
+      image: 'https://images.pexels.com/photos/29631468/pexels-photo-29631468.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Chinese'
     },
     {
       id: 'chinese-7',
       name: 'Paneer Manchurian',
       price: 99,
-      image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80',
+      image: 'https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Chinese'
     }
   ],
@@ -371,7 +371,7 @@ export const menuData = {
       id: 'breakfast-2',
       name: 'Puri Sabji',
       price: 49,
-      image: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&q=80',
+      image: 'https://images.pexels.com/photos/5410464/pexels-photo-5410464.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Breakfast'
     },
     {
@@ -399,7 +399,7 @@ export const menuData = {
       id: 'breakfast-6',
       name: 'Pav Bhaji',
       price: 69,
-      image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80',
+      image: 'https://images.pexels.com/photos/5410400/pexels-photo-5410400.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Breakfast'
     }
   ],
@@ -408,35 +408,35 @@ export const menuData = {
       id: 'south-1',
       name: 'Masala Dosa',
       price: 80,
-      image: 'https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=600&q=80',
+      image: 'https://images.pexels.com/photos/32229637/pexels-photo-32229637.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'South Indian'
     },
     {
       id: 'south-2',
       name: 'Paneer Dosa',
       price: 100,
-      image: 'https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=600&q=80',
+      image: 'https://images.pexels.com/photos/20422121/pexels-photo-20422121.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'South Indian'
     },
     {
       id: 'south-3',
       name: 'Paper Dosa',
       price: 50,
-      image: 'https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=600&q=80',
+      image: 'https://images.pexels.com/photos/9619560/pexels-photo-9619560.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'South Indian'
     },
     {
       id: 'south-4',
       name: 'Onion Dosa',
       price: 80,
-      image: 'https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=600&q=80',
+      image: 'https://images.pexels.com/photos/20422131/pexels-photo-20422131.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'South Indian'
     },
     {
       id: 'south-5',
       name: 'Paneer Masala Mix Dosa',
       price: 90,
-      image: 'https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=600&q=80',
+      image: 'https://images.pexels.com/photos/20422133/pexels-photo-20422133.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'South Indian'
     },
     {
