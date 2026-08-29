@@ -29,7 +29,7 @@ export const menuData = {
       id: 'tea-4',
       name: 'Butter Coffee',
       price: 35,
-      image: 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600&q=80',
+      image: 'https://images.pexels.com/photos/3062752/pexels-photo-3062752.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Tea & Coffee'
     }
   ],
@@ -38,7 +38,7 @@ export const menuData = {
       id: 'cold-1',
       name: 'Cold Coffee (M)',
       price: 49,
-      image: 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600&q=80',
+      image: 'https://images.pexels.com/photos/17576001/pexels-photo-17576001.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Cold Beverages'
     },
     {
@@ -59,7 +59,7 @@ export const menuData = {
       id: 'cold-4',
       name: 'Black Drink',
       price: 35,
-      image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=600&q=80',
+      image: 'https://images.pexels.com/photos/8879617/pexels-photo-8879617.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Cold Beverages'
     }
   ],
@@ -112,7 +112,7 @@ export const menuData = {
       id: 'mocktail-2',
       name: 'Jal Jeera Mojito',
       price: 69,
-      image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=600&q=80',
+      image: 'https://images.pexels.com/photos/5668200/pexels-photo-5668200.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Mocktail'
     },
     {
@@ -466,14 +466,14 @@ export const menuData = {
       id: 'rice-1',
       name: 'Veg Fried Rice',
       price: 70,
-      image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&q=80',
+      image: 'https://images.pexels.com/photos/35588196/pexels-photo-35588196.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
       id: 'rice-2',
       name: 'Paneer Fried Rice',
       price: 90,
-      image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&q=80',
+      image: 'https://images.pexels.com/photos/32489477/pexels-photo-32489477.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
@@ -508,7 +508,7 @@ export const menuData = {
       id: 'rice-7',
       name: 'Saadi Dal',
       price: 50,
-      image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&q=80',
+      image: 'https://images.pexels.com/photos/12737914/pexels-photo-12737914.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
@@ -589,14 +589,14 @@ export const menuData = {
       id: 'veg-1',
       name: 'Mix Veg',
       price: 80,
-      image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&q=80',
+      image: 'https://images.pexels.com/photos/10695966/pexels-photo-10695966.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Veg Special'
     },
     {
       id: 'veg-2',
       name: 'Seasonal Sabji',
       price: 60,
-      image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&q=80',
+      image: 'https://images.pexels.com/photos/9287032/pexels-photo-9287032.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Veg Special'
     },
     {
@@ -652,7 +652,7 @@ export const menuData = {
       id: 'drink-1',
       name: 'Cold Drink (Small)',
       price: 20,
-      image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=600&q=80',
+      image: 'https://images.pexels.com/photos/6541793/pexels-photo-6541793.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Cold Drinks'
     },
     {
