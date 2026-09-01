@@ -126,7 +126,6 @@ export const MenuSection = ({ menuData, addToCart, cart, updateQuantity }) => {
     { key: 'pizza', title: 'Pizza', number: '09' },
     { key: 'sandwich', title: 'Sandwich', number: '10' },
     { key: 'breakfast', title: 'Breakfast', number: '11' },
-    { key: 'southIndian', title: 'South Indian', number: '12' },
     { key: 'riceDal', title: 'Rice / Dal', number: '13' },
     { key: 'paneerSpecial', title: 'Paneer Special', number: '14' },
     { key: 'vegSpecial', title: 'Veg Special', number: '15' },

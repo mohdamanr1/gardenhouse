@@ -200,7 +200,7 @@ export const menuData = {
       id: 'maggi-4',
       name: 'Paneer Maggi',
       price: 70,
-      image: 'https://images.pexels.com/photos/4331491/pexels-photo-4331491.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/2764905/pexels-photo-2764905.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Maggi'
     }
   ],
@@ -480,7 +480,7 @@ export const menuData = {
       id: 'rice-3',
       name: 'Veg Biryani',
       price: 80,
-      image: 'https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/37303308/pexels-photo-37303308.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
