@@ -52,7 +52,7 @@ export const menuData = {
       id: 'cold-3',
       name: 'Special Lassi',
       price: 60,
-      image: 'https://images.pexels.com/photos/5946071/pexels-photo-5946071.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Cold Beverages'
     },
     {
@@ -128,14 +128,14 @@ export const menuData = {
       id: 'snack-1',
       name: 'Aloo Patties',
       price: 20,
-      image: 'https://images.pexels.com/photos/36170562/pexels-photo-36170562.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/170452/pexels-photo-170452.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
       id: 'snack-2',
       name: 'Paneer Patties',
       price: 35,
-      image: 'https://images.pexels.com/photos/13365029/pexels-photo-13365029.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/34477220/pexels-photo-34477220.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
