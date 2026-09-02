@@ -119,7 +119,7 @@ export const menuData = {
       id: 'mocktail-3',
       name: 'Cucumber Basil Spritzer',
       price: 69,
-      image: 'https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/8679633/pexels-photo-8679633.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Mocktail'
     }
   ],
@@ -142,7 +142,7 @@ export const menuData = {
       id: 'snack-3',
       name: 'Bun Muska',
       price: 30,
-      image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&q=80',
+      image: 'https://images.pexels.com/photos/17850150/pexels-photo-17850150.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Snacks & Patties'
     },
     {
@@ -385,7 +385,7 @@ export const menuData = {
       id: 'breakfast-4',
       name: 'Paneer Paratha',
       price: 59,
-      image: 'https://images.unsplash.com/photo-1630383249896-424e482df921?w=600&q=80',
+      image: 'https://images.pexels.com/photos/12737919/pexels-photo-12737919.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Breakfast'
     },
     {
@@ -487,7 +487,7 @@ export const menuData = {
       id: 'rice-4',
       name: 'Paneer Biryani',
       price: 100,
-      image: 'https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/9743517/pexels-photo-9743517.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
@@ -501,14 +501,14 @@ export const menuData = {
       id: 'rice-6',
       name: 'Jeera Rice',
       price: 60,
-      image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&q=80',
+      image: 'https://images.pexels.com/photos/7593253/pexels-photo-7593253.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
       id: 'rice-7',
       name: 'Saadi Dal',
       price: 50,
-      image: 'https://images.pexels.com/photos/12737914/pexels-photo-12737914.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/28674710/pexels-photo-28674710.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Rice / Dal'
     },
     {
@@ -596,7 +596,7 @@ export const menuData = {
       id: 'veg-2',
       name: 'Seasonal Sabji',
       price: 60,
-      image: 'https://images.pexels.com/photos/9287032/pexels-photo-9287032.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/35041649/pexels-photo-35041649.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Veg Special'
     },
     {
@@ -668,14 +668,14 @@ export const menuData = {
       id: 'water-1',
       name: 'Mineral Water (500ml)',
       price: 10,
-      image: 'https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=600&q=80',
+      image: 'https://images.pexels.com/photos/31012801/pexels-photo-31012801.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Mineral Water'
     },
     {
       id: 'water-2',
       name: 'Mineral Water (1L)',
       price: 20,
-      image: 'https://images.unsplash.com/photo-1560023907-5f339617ea30?w=600&q=80',
+      image: 'https://images.pexels.com/photos/31012803/pexels-photo-31012803.jpeg?auto=compress&cs=tinysrgb&w=600',
       category: 'Mineral Water'
     }
   ]
