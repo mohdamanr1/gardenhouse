@@ -66,7 +66,7 @@ const MenuItem = ({ item, onAddToCart, cartItem, updateQuantity }) => {
               {item.name}
             </h3>
             {item.description && (
-              <p className="text-[10px] sm:text-xs text-emerald-700 mt-1 line-clamp-2 hidden sm:block">
+              <p className="text-[10px] sm:text-xs text-emerald-700 mt-1 line-clamp-2">
                 {item.description}
               </p>
             )}
