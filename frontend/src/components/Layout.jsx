@@ -18,12 +18,11 @@ export const Header = ({ cartCount, onCartClick }) => {
             whileHover={{ scale: 1.05 }}
             className="flex items-center gap-2 sm:gap-3"
           >
-            <div className="w-10 h-10 sm:w-14 sm:h-14 rounded-full bg-gradient-to-br from-emerald-600 to-emerald-800 flex items-center justify-center shadow-lg shadow-emerald-900/20 flex-shrink-0">
-              <div className="text-center">
-                <div className="text-white text-[6px] sm:text-[8px] font-bold leading-tight">THE GARDEN</div>
-                <div className="text-amber-300 text-[6px] sm:text-[8px] font-bold leading-tight">HOUSE</div>
-              </div>
-            </div>
+            <img
+              src="/images/logo.png"
+              alt="The Garden House Logo"
+              className="w-10 h-10 sm:w-14 sm:h-14 rounded-full object-cover shadow-lg shadow-emerald-900/20 flex-shrink-0"
+            />
             <div>
               <h1 className="text-base sm:text-2xl font-bold text-emerald-900 tracking-tight leading-tight">The Garden House</h1>
               <p className="text-[9px] sm:text-xs text-emerald-700 tracking-wider">VEG & FAST FOOD</p>
@@ -75,6 +74,25 @@ export const Footer = () => {
           <p className="text-white/90 text-lg">Near Indian Petrol Pump, Sirsiya Road, Bhinga</p>
         </motion.div>
 
+        {/* Google Map */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="max-w-3xl mx-auto mb-12 rounded-2xl overflow-hidden shadow-2xl border border-white/20"
+        >
+          <iframe
+            title="The Garden House Location"
+            src="https://www.google.com/maps?q=The%20Garden%20House%2C%20Sirsiya%20Road%2C%20Bhinga%2C%20Shravasti&output=embed"
+            width="100%"
+            height="300"
+            style={{ border: 0 }}
+            allowFullScreen=""
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+          />
+        </motion.div>
+
         {/* Features Grid */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
           {[
@@ -106,10 +124,15 @@ export const Footer = () => {
           viewport={{ once: true }}
           className="text-center pt-8 border-t border-white/20"
         >
-          <div className="flex items-center justify-center gap-2 text-amber-300 mb-2">
+          <a
+            href="https://www.instagram.com/the_garden_house_bhinga/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-center gap-2 text-amber-300 mb-2 hover:text-amber-200 transition-colors"
+          >
             <Instagram className="w-5 h-5" />
-            <span className="text-lg">Follow us @thegarden_house_</span>
-          </div>
+            <span className="text-lg">Follow us @the_garden_house_bhinga</span>
+          </a>
           <p className="text-white/70 text-sm mt-4">© 2025 The Garden House. All rights reserved.</p>
         </motion.div>
       </div>

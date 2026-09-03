@@ -39,6 +39,27 @@ export const Hero = () => {
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 text-center">
+        {/* Animated Logo */}
+        <motion.div
+          initial={{ scale: 0, rotate: -180, opacity: 0 }}
+          animate={{ scale: 1, rotate: 0, opacity: 1 }}
+          transition={{
+            duration: 1.2,
+            delay: 0.1,
+            type: "spring",
+            stiffness: 120
+          }}
+          className="flex justify-center mb-6"
+        >
+          <motion.img
+            src="/images/logo.png"
+            alt="The Garden House Logo"
+            animate={{ y: [0, -12, 0] }}
+            transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
+            className="w-32 h-32 sm:w-44 sm:h-44 rounded-full shadow-2xl shadow-emerald-900/30"
+          />
+        </motion.div>
+
         {/* Free Delivery Badge */}
         <motion.div
           initial={{ scale: 0, rotate: -180 }}
